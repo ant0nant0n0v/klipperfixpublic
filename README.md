@@ -1,5 +1,3 @@
-klipperfixpublic
-
 Personal repo for running Klipper suite for 3D printers on android phone. These are my configuration files, no passwords in them, so useless for you.
 
 If you need help how to install klipper on android follow this guide: https://github.com/d4rk50ul1/klipper-on-android
