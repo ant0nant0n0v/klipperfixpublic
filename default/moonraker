@@ -1,7 +1,7 @@
 # Configuration for /etc/init.d/moonraker
 
 MOONRAKER_USER=thw
-MOONRAKER_CONFIG=/home/thw/printer_data/config//moonraker.conf
+MOONRAKER_CONFIG=/home/thw/printer_data/config/moonraker.conf
 MOONRAKER_LOG=/home/thw/printer_data/logs/moonraker.log
 MOONRAKER_SOCKET=/tmp/moonraker_uds
 MOONRAKER_PRINTER=/tmp/printer
